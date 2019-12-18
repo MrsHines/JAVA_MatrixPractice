@@ -31,7 +31,7 @@ public class Forest
 	}
 	
 	//if location ! a rock && 
-	//is surrounded by > 5 trees or rocks larger than 10
+	//is surrounded by > 4 trees or rocks larger than 10
 	public boolean isTrapped( int r, int c)
 	{
 		return false;
